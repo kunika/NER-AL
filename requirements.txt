@@ -5,3 +5,5 @@ small-text[transformers]~=1.1.1
 colab-xterm~=0.1.2
 pyngrok~=5.2.1
 colab-xterm~=0.1.2
+spacy[transformers]~=3.0
+protobuf
