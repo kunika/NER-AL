@@ -1,0 +1,7 @@
+argilla[server, listeners]==1.1.1
+transformers[sentencepiece]~=4.25.1
+datasets~=2.7.1
+small-text[transformers]~=1.1.1
+colab-xterm~=0.1.2
+pyngrok~=5.2.1
+colab-xterm~=0.1.2
